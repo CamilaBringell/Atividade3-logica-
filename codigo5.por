@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-	 	real st
+	 	real   st
 		escreva("Informe salario atual:")
 		leia(st)
 
